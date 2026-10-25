@@ -1,7 +1,7 @@
-# DigiByte Mobile — signed APK releases
+# HoldFast Wallet — signed APK releases
 
-**DigiByte Mobile** (`app.aroundtheblock.wallet`) is a self-custody DigiByte wallet for Android, published by
-**Around The Block LLC**. It is not published by the DigiByte project.
+**HoldFast Wallet** (`app.aroundtheblock.wallet`, formerly ATB Wallet for DigiByte (DGB) and DigiByte Mobile) is a
+self-custody DigiByte wallet for Android, published by **Around The Block LLC**. It is not published by the DigiByte project.
 
 - **Install from Google Play** (recommended): https://play.google.com/store/apps/details?id=app.aroundtheblock.wallet
 - **Or install the signed APK** from the [releases](../../releases) of this repository. Play installs and these APKs are
